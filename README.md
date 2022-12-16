@@ -708,8 +708,13 @@ You must install the _'httpd'_ service and _PHP_ on the _'people-frontend'_ serv
 
 Once you set up the website, try accessing the public DNS name or public IP of the _"people-frontend"_ server and it will display your WordPress website content.
 
-> Refer:
-https://httpd.apache.org/docs/2.4/install.html
-https://www.tutorialswebsite.com/how-to-install-php-on-aws-ec2-instance/
-https://mariadb.com/kb/en/yum/#installing-mariadb-server-with-yum
-https://linuxhint.com/create-mariadb-user/
+> **Refer**:
+>
+>[Installing Apache](https://httpd.apache.org/docs/2.4/install.html)
+>
+>[Installing PHP](https://www.tutorialswebsite.com/how-to-install-php-on-aws-ec2-instance/)
+>
+>[Installing MariaDB Server with YUM](https://mariadb.com/kb/en/yum/#installing-mariadb-server-with-yum)
+>
+>[Creating MariaDB User](https://linuxhint.com/create-mariadb-user/)
+
